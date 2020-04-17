@@ -1,32 +1,31 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
-# Flash Chat ⚡️
+# Yaa Chatty ⚡️ [messaging app]
 
-## Our Goal
+I started this project from The App Brewery's Complete Flutter Development Bootcamp by Angela yu, 
+check out the full course at [www.appbrewery.co](https://www.appbrewery.co/). It's the best course for who wants to  be a great Flutter Developer(cross-platfrom Android/Ios).
 
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
+this is the original project from ###The App Brewery ![flash-chat-flutter](https://github.com/londonappbrewery/flash-chat-flutter)
+
+## My Goal
+
+I wanted to learn more about Firebase with  Flutter and how to deal with firestore storage so i added more screens and features like:
+
+1.Firebase authentication verify email.
+2.setting screen (update user data(nickname,age,description).
+3.profile screen (show user's infromation).
+4.Drawer widget (to easy navigate through screens).
+5.online screen (show app's users).
+6.private chat screen (chat with a partner).
+7.splash screen (added in android).
+
+## adding new widget
+ 1.clipPath
+ 2.drawer
+ 3.AlertDialog
+ 4.FutureBuilder
+ 5.ShadeMask
+ 6.RadialGradient
+ ...
 
 
-## What you will create
-
-We’re going to build a modern messaging app where users can sign up and log in to chat.
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
-
-## What you will learn
-
-- How to incorporate Firebase into your Flutter projects.
-- How to use Firebase authentication to register and sign in users.
-- How to create beautiful animations using the Flutter Hero widget.
-- How to create custom aniamtions using Flutter's animation controller. 
-- Learn all about mixins and how they differ from superclasses.
-- Learn about Streams and how they work.
-- Learn to use ListViews to build scrolling views.
-- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
