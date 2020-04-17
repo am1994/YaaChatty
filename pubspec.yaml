@@ -1,0 +1,58 @@
+name: flash_chat
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0<3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.2
+  animated_text_kit: ^1.3.0
+  firebase_core: ^0.4.4+2
+  firebase_auth: ^0.15.5+2
+  cloud_firestore: ^0.13.4+1
+  modal_progress_hud: ^0.1.3
+  font_awesome_flutter: ^8.7.0
+  firebase_storage: ^3.1.3
+  fluttertoast: ^4.0.0
+  image_picker: ^0.6.3+4
+  cached_network_image: 2.0.0-rc.1
+  intl: ^0.15.7
+  double_back_to_close_app: ^0.1.2
+  liquid_swipe: ^1.4.2
+  shared_preferences: ^0.5.6+3
+  connectivity: ^0.4.8+2
+
+
+
+
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - images/
+  - sound/message_sound.mp3
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico-Regular.ttf
+
+    - family: Libre
+      fonts:
+        - asset: fonts/LibreBaskerville-Bold.ttf
