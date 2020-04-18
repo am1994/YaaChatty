@@ -30,18 +30,25 @@ I wanted to learn more about Firebase with  Flutter and how to deal with firesto
  5.ShadeMask<br/>
  6.RadialGradient<br 
  ...<br/>
- 
+ <p float="left">
  <img src="https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021232.jpg"  width="200" height="400" > 
  <img src="https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021240.jpg"  width="200" height="400"> 
- <img src="https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021250.jpg"  width="200" height="400"></br>
+ <img src="https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021250.jpg"  width="200" height="400">
+  </p></br>
+  <p float="left">
  <img src="https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021445.jpg" width="200" height="400"> 
  <img src="https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021457.jpg"  width="200" height="400"> 
- <img src="https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021503.jpg" width="200" height="400"></br>
+ <img src="https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021503.jpg" width="200" height="400">
+</p></br>
+<p float="left">
  <img src="https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021510.jpg"  width="200" height="400"> 
  <img src="https://github.com/am1994/YaaChatty/blob/master/chat_screen.jpg" width="200" height="400"> 
  <img src="https://github.com/am1994/YaaChatty/blob/master/online.jpg" width="200" height="400">
+ </p></br>
+ <p float="left">
  <img src="https://github.com/am1994/YaaChatty/blob/master/public_chat_screen.jpg" width="200" height="400"> 
- <img src="https://github.com/am1994/YaaChatty/blob/master/register.jpg"  width="200" height="400"></br>
+ <img src="https://github.com/am1994/YaaChatty/blob/master/register.jpg"  width="200" height="400">
+</p></br>
 
 
  
