@@ -31,17 +31,17 @@ I wanted to learn more about Firebase with  Flutter and how to deal with firesto
  6.RadialGradient<br 
  ...<br/>
  
- ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021232.jpg | width=100)
- ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021240.jpg | width=100)
- ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021250.jpg | width=100)
- ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021445.jpg | width=100)
- ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021457.jpg | width=100)
- ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021503.jpg | width=100)
- ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021510.jpg | width=100)
- ![](https://github.com/am1994/YaaChatty/blob/master/chat_screen.jpg | width=100)
- ![](https://github.com/am1994/YaaChatty/blob/master/online.jpg | width=100)
- ![](https://github.com/am1994/YaaChatty/blob/master/public_chat_screen.jpg.jpg | width=100)
- ![](https://github.com/am1994/YaaChatty/blob/master/register.jpg.jpg | width=100)
+ ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021232.jpg | width=100)</br>
+ ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021240.jpg | width=100)</br>
+ ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021250.jpg | width=100)</br>
+ ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021445.jpg | width=100)</br>
+ ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021457.jpg | width=100)</br>
+ ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021503.jpg | width=100)</br>
+ ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021510.jpg | width=100)</br>
+ ![](https://github.com/am1994/YaaChatty/blob/master/chat_screen.jpg | width=100)</br>
+ ![](https://github.com/am1994/YaaChatty/blob/master/online.jpg | width=100)</br>
+ ![](https://github.com/am1994/YaaChatty/blob/master/public_chat_screen.jpg.jpg | width=100)</br>
+ ![](https://github.com/am1994/YaaChatty/blob/master/register.jpg.jpg | width=100)</br>
 
 
  
