@@ -9,23 +9,24 @@ this is the original project from ###The App Brewery ![flash-chat-flutter](https
 
 ## My Goal
 
-I wanted to learn more about Firebase with  Flutter and how to deal with firestore storage so i added more screens and features like:
+I wanted to learn more about Firebase with  Flutter and how to deal with firestore storage so i added more screens and features like:<br/>
 
-1.Firebase authentication verify email.
-2.setting screen (update user data(nickname,age,description).
-3.profile screen (show user's infromation).
-4.Drawer widget (to easy navigate through screens).
-5.online screen (show app's users).
-6.private chat screen (chat with a partner).
-7.splash screen (added in android).
+1.Firebase authentication verify email. <br/>
+2.setting screen (update user data(nickname,age,description).<br/>
+3.profile screen (show user's infromation).<br/>
+4.Drawer widget (to easy navigate through screens).<br/>
+5.online screen (show app's users).<br/>
+6.private chat screen (chat with a partner).<br/>
+7.splash screen (added in android).<br/>
 
 ## adding new widget
- 1.clipPath
- 2.drawer
- 3.AlertDialog
- 4.FutureBuilder
- 5.ShadeMask
- 6.RadialGradient
- ...
+
+ 1.clipPath<br/>
+ 2.drawer<br/>
+ 3.AlertDialog<br/>
+ 4.FutureBuilder<br/>
+ 5.ShadeMask<br/>
+ 6.RadialGradient<br/>
+ ...<br/>
 
 
