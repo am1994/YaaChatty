@@ -11,25 +11,25 @@ this is the original project from ## The App Brewery ![flash-chat-flutter](https
 
 I wanted to learn more about Firebase with  Flutter and how to deal with firestore storage so i added more screens and features like:<br/>
 
-1. Firebase authentication verify email. <br/>
-2. Setting screen (update user data(nickname,age,description).<br/>
-3. Profile screen (show user's infromation).<br/>
-4. Drawer widget (to easy navigate through screens).<br/>
-5. Online screen (show app's users).<br/>
-6. Private chat screen (chat with a partner).<br/>
-7. Send images <br/>
-8. Splash screen (added in android).<br/>
+1.  Firebase authentication verify email. <br/>
+2.  Setting screen (update user data(nickname,age,description).<br/>
+3.  Profile screen (show user's infromation).<br/>
+4.  Drawer widget (to easy navigate through screens).<br/>
+5.  Online screen (show app's users).<br/>
+6.  Private chat screen (chat with a partner).<br/>
+7.  Send images <br/>
+8.  Splash screen (added in android).<br/>
 
 
 ## adding new widgets
 
- * clipPath<br/>
- * drawer<br/>
- * AlertDialog<br/>
- * FutureBuilder<br/>
- * ShadeMask<br/>
- * RadialGradient<br 
- * ...<br/>
+ *  clipPath<br/>
+ *  drawer<br/>
+ *  AlertDialog<br/>
+ *  FutureBuilder<br/>
+ *  ShadeMask<br/>
+ *  RadialGradient<br 
+ *  ...<br/>
  <p float="left">
  <img src="https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021232.jpg"  width="200" height="400" > 
  <img src="https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021240.jpg"  width="200" height="400"> 
