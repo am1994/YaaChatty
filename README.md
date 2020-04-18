@@ -11,25 +11,25 @@ this is the original project from ## The App Brewery ![flash-chat-flutter](https
 
 I wanted to learn more about Firebase with  Flutter and how to deal with firestore storage so i added more screens and features like:<br/>
 
-1.Firebase authentication verify email. <br/>
-2.setting screen (update user data(nickname,age,description).<br/>
-3.profile screen (show user's infromation).<br/>
-4.Drawer widget (to easy navigate through screens).<br/>
-5.online screen (show app's users).<br/>
-6.private chat screen (chat with a partner).<br/>
-7.send images <br/>
-8.splash screen (added in android).<br/>
+1. Firebase authentication verify email. <br/>
+2. Setting screen (update user data(nickname,age,description).<br/>
+3. Profile screen (show user's infromation).<br/>
+4. Drawer widget (to easy navigate through screens).<br/>
+5. Online screen (show app's users).<br/>
+6. Private chat screen (chat with a partner).<br/>
+7. Send images <br/>
+8. Splash screen (added in android).<br/>
 
 
-## adding new widget
+## adding new widgets
 
- 1.clipPath<br/>
- 2.drawer<br/>
- 3.AlertDialog<br/>
- 4.FutureBuilder<br/>
- 5.ShadeMask<br/>
- 6.RadialGradient<br 
- ...<br/>
+ * clipPath<br/>
+ * drawer<br/>
+ * AlertDialog<br/>
+ * FutureBuilder<br/>
+ * ShadeMask<br/>
+ * RadialGradient<br 
+ * ...<br/>
  <p float="left">
  <img src="https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021232.jpg"  width="200" height="400" > 
  <img src="https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021240.jpg"  width="200" height="400"> 
@@ -43,8 +43,8 @@ I wanted to learn more about Firebase with  Flutter and how to deal with firesto
  <img src="https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021510.jpg"  width="200" height="400"> 
 </p></br>
 <p float="left">
- <img src="https://github.com/am1994/YaaChatty/blob/master/chat_screen.jpg" width="200" height="400"> 
  <img src="https://github.com/am1994/YaaChatty/blob/master/online.jpg" width="200" height="400">
+ <img src="https://github.com/am1994/YaaChatty/blob/master/chat_screen.jpg" width="200" height="400"> 
  <img src="https://github.com/am1994/YaaChatty/blob/master/public_chat_screen.jpg" width="200" height="400"> 
  </p></br>
 
