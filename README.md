@@ -3,7 +3,7 @@
 # Yaa Chatty ![](https://github.com/am1994/YaaChatty/blob/master/icons8-weixin-64.png) [messaging app]
 
 I started this project from The App Brewery's Complete Flutter Development Bootcamp by Angela yu, 
-check out the full course at [www.appbrewery.co](https://www.appbrewery.co/). It's the best course for who wants to  be a great Flutter Developer(cross-platfrom Android/Ios).
+check out the full course at [www.appbrewery.co](https://www.appbrewery.co/). It's the best course for who wants to  be a great Flutter Developer(cross-platform Android/Ios).
 
 this is the original project from The App Brewery ![flash-chat-flutter](https://github.com/londonappbrewery/flash-chat-flutter)
 
@@ -49,8 +49,10 @@ I wanted to learn more about Firebase with  Flutter and how to deal with firesto
  </p></br>
 
 
+ created images: ![Unsplash](https://unsplash.com/)
  
- 
+ # Plan
+ my code isn't clean enough so i am willing to learn the design architecture like [Provider] / [block] / [Mobx]  / [Redux]
  
 ## License
 
