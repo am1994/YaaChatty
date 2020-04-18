@@ -31,7 +31,7 @@ I wanted to learn more about Firebase with  Flutter and how to deal with firesto
  6.RadialGradient<br 
  ...<br/>
  
- ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021232.jpg | width=100)</br>
+ <img src="https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021232.jpg"  width="100" height="200" > </br>
  ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021240.jpg | width=100)</br>
  ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021250.jpg | width=100)</br>
  ![](https://github.com/am1994/YaaChatty/blob/master/Screenshot_20200418-021445.jpg | width=100)</br>
