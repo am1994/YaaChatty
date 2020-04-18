@@ -2,10 +2,10 @@
 
 # Yaa Chatty ![](https://github.com/am1994/YaaChatty/blob/master/icons8-weixin-64.png) [messaging app]
 
-I started this project from The App Brewery's Complete Flutter Development Bootcamp by # Angela yu, 
+I started this project from The App Brewery's Complete Flutter Development Bootcamp by Angela yu, 
 check out the full course at [www.appbrewery.co](https://www.appbrewery.co/). It's the best course for who wants to  be a great Flutter Developer(cross-platfrom Android/Ios).
 
-this is the original project from ## The App Brewery ![flash-chat-flutter](https://github.com/londonappbrewery/flash-chat-flutter)
+this is the original project from The App Brewery ![flash-chat-flutter](https://github.com/londonappbrewery/flash-chat-flutter)
 
 ## My Goal
 
