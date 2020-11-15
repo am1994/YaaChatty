@@ -49,7 +49,7 @@ I wanted to learn more about Firebase with  Flutter and how to deal with firesto
  </p></br>
 
 
- created images: ![Unsplash](https://unsplash.com/)
+ credit images: ![Unsplash](https://unsplash.com/)
  
  # Plan
  my code isn't clean enough so i am willing to learn the design architecture like [Provider] / [block] / [Mobx]  / [Redux]
